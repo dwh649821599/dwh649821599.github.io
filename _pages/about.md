@@ -26,9 +26,9 @@ I obtained a Bachelor's degree in Computer Science and Technology from the Colle
 
 # 📝 Publications 
 - [What will regularized continuous learning performs if it was used to medical image segmentation: a preliminary analysis](https://ieeexplore.ieee.org/abstract/document/10385386), **Weihao Dai**, Chaolu Feng, Shuaizheng Chen, et al., **BIBM 2023**
-- [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., (**Submitted**), **IEEE TMI (IF: 10.6)**
+- [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., (**Submitted**), **IEEE Transactions on Medical Imaging (TMI, IF: 10.6)**
 
 
 # 📖 Educations
-- *2022.06 - 2025.06 (expected)*, Master, Northeastern University, Shenyang. 
+- *2022.09 - 2025.06 (expected)*, Master, Northeastern University, Shenyang. 
 - *2018.09 - 2022.06*, Undergraduate, Northeastern University, Shenyang.
