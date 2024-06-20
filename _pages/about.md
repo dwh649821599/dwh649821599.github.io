@@ -25,8 +25,8 @@ I obtained a Bachelor's degree in Computer Science and Technology from the Colle
 
 
 # 📝 Publications 
-- [What will regularized continuous learning performs if it was used to medical image segmentation: a preliminary analysis](https://ieeexplore.ieee.org/abstract/document/10385386), **Weihao Dai**, Chaolu Feng, Shuaizheng Chen, Wei Li, Jinzhu Yang, and Dazhe Zhao, **BIBM 2023**
-- [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, Hongxia Ning, Yonghuai Wang, Bo Zhang, Shuang Liu, Tao Cong, Dandan Sun, and Chunyan Ma, (**Submitted**), **IEEE TMI (IF: 10.6)**
+- [What will regularized continuous learning performs if it was used to medical image segmentation: a preliminary analysis](https://ieeexplore.ieee.org/abstract/document/10385386), **Weihao Dai**, Chaolu Feng, Shuaizheng Chen, et al., **BIBM 2023**
+- [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., (**Submitted**), **IEEE TMI (IF: 10.6)**
 
 
 # 📖 Educations
