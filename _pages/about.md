@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained a Bachelor's degree in Computer Science and Technology from the College of Computer Science and Engineering at Northeastern University. Currently, I am pursuing a Master's degree in Artificial Intelligence at the same institution, advised by Prof. Chaolu Feng. My research interest includes medical image analysis, continual learning, and computer vision. 
+I obtained a Bachelor's degree in Computer Science and Technology from the College of Computer Science and Engineering at Northeastern University. Currently, I am pursuing a Master's degree in Artificial Intelligence at the same institution, advised by Prof. Chaolu Feng. My research interest includes medical image analysis, continual learning, and computer vision. | [\[CV\]](https://github.com/dwh649821599/dwh649821599.github.io/cv.pdf)
 
 
 # 🔥 News
