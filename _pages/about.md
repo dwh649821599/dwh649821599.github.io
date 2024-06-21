@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I obtained a Bachelor's degree in Computer Science and Technology from the College of Computer Science and Engineering at Northeastern University. Currently, I am pursuing a Master's degree in Artificial Intelligence at the same institution, advised by Prof. Chaolu Feng. My research interest includes medical image analysis, continual learning, and computer vision. [\[CV\]](https://dwh649821599.github.io/cv.pdf)
+I obtained a Bachelor's degree in Computer Science and Technology from the College of Computer Science and Engineering at Northeastern University. Currently, I am pursuing a Master's degree in Artificial Intelligence at the same institution, advised by Prof. Chaolu Feng. My research interest includes medical image analysis, multi-modal, continual learning, and computer vision. For more information, please refer to my [\[CV\]](https://dwh649821599.github.io/cv.pdf).
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 My first paper is accepted by BIBM 2023
+- *2023.10*: &nbsp;🎉🎉 Our paper is accepted by BIBM 2023
 
 
 # 📝 Publications 
 - [What will regularized continuous learning performs if it was used to medical image segmentation: a preliminary analysis](https://ieeexplore.ieee.org/abstract/document/10385386), **Weihao Dai**, Chaolu Feng, Shuaizheng Chen, et al., **BIBM 2023**
-- [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., (**Submitted**), **IEEE Transactions on Medical Imaging (TMI, IF: 10.6)**
+- [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., **Submitted to IEEE Transactions on Medical Imaging (TMI, IF: 10.6)**
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (expected)*, Master, Northeastern University, Shenyang. 
+- *2022.09 - 2025.06 (Expected)*, Master, Northeastern University, Shenyang. 
 - *2018.09 - 2022.06*, Undergraduate, Northeastern University, Shenyang.
