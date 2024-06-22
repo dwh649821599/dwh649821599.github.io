@@ -25,7 +25,7 @@ My research interest includes medical image analysis, multi-modal, continual lea
 - *2023.10*: &nbsp;🎉🎉 Our paper is accepted by BIBM 2023
 
 # 📝 Publications 
-- [What Will Regularized Continuous Learning Performs if It Was Used to Medical Image Segmentation: A Preliminary Analysis](https://ieeexplore.ieee.org/abstract/document/10385386), **Weihao Dai**, Chaolu Feng, Shuaizheng Chen, et al., **BIBM 2023**
+- [What Will Regularized Continuous Learning Performs if It Was Used to Medical Image Segmentation: A Preliminary Analysis](https://ieeexplore.ieee.org/abstract/document/10385386), **Weihao Dai**, Chaolu Feng, Shuaizheng Chen, et al., **2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM, CCF B)**
 - [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., **IEEE Transactions on Medical Imaging (TMI, IF: 10.6), under review**
 
 # 🎖 Honors and Awards
