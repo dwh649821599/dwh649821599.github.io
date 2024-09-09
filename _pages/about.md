@@ -29,7 +29,7 @@ My research interest includes medical image analysis, multi-modal, continual lea
 - [Left Ventricular Wall Thickness and Systolic Function Quantification for Hypertrophic Cardiomyopathy in Echocardiography](), **Weihao Dai**, Fanxin Kong, Chaolu Feng, et al., **IEEE Transactions on Medical Imaging (TMI, IF: 10.6), under review**
 
 # 🎖 Honors and Awards
-- *2022, 2023* First-Class Scholarship for Outstanding Students
+- *2022, 2023, 2024* First-Class Scholarship for Outstanding Students
 - *2021.08*    First Prize in Zhibo Technology Artificial Intelligence Practicum
 - *2021.07*    Third Prize in Zhehang Technology Comprehensive Practice
 - *2021.06*    Second-Class Scholarship for Outstanding Students
